@@ -99,7 +99,7 @@ Run `make index` to create the indices for the engines.
 make index
 ```
 
-Run `make bench` to build the different project and run the benches.
+Run `make compile`, to build the search binaries, and then `make bench`, to build the different project and run the benches.
 This command may take more than 30mn.
 
 ```
